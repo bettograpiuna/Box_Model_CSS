@@ -4,7 +4,7 @@ Este é um projeto de front-end simples que cria uma página de galeria para um 
 
 ## 📸 Visualização do Projeto
 
-Abaixo está uma captura de tela do projeto finalizado.
+Abaixo está um link para visualizar o projeto.
 
 [Visualizar o Site](https://bettograpiuna.github.io/Box_Model_CSS/)
 
