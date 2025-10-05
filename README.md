@@ -6,7 +6,7 @@ Este é um projeto de front-end simples que cria uma página de galeria para um 
 
 Abaixo está uma captura de tela do projeto finalizado.
 
-![Visualização do Projeto CreativeHub](image_bfbadd.jpg)
+![Visualização do Projeto CreativeHub]([image_bfbadd.jpg](https://bettograpiuna.github.io/Box_Model_CSS/))
 
 ## ✨ Funcionalidades
 
